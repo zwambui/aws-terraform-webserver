@@ -3,7 +3,7 @@ terraform {
     organization = "Zepindah_HCP"
 
     workspaces {
-      name = "aws-terraform-webserver"
+      name = "web_server"
     }
   }
 }
